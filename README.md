@@ -74,8 +74,8 @@ These metrics provide a high-level overview of business performance.
 ---
 
 ## How to Use This Repository
-1. Open `eda_sales.sql` to explore all queries and analysis  
-2. Run queries in SQL Server, Azure SQL, or any compatible SQL database  
-3. Modify or extend queries to analyze other metrics, categories, or time periods  
+1. Open `sql.1` to explore all queries and analysis  
+3. Run queries in SQL Server, Azure SQL, or any compatible SQL database  
+4. Modify or extend queries to analyze other metrics, categories, or time periods  
 
 
